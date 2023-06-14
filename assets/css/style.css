@@ -100,7 +100,7 @@ html {
     margin-top: 46px;
     padding-top: 50%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    background: url('/assets/images/slider/lcw.jpg') top center / cover no-repeat;
+    background: url('https://i.pinimg.com/originals/e9/ab/85/e9ab8560e3192f95e4ef457845ca7e12.jpg') top center / cover no-repeat;
 }
 
 .slider::before {
